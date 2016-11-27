@@ -1,5 +1,3 @@
-
-
 houses <- read.csv(file="db3.csv",head=TRUE,sep=",")
 attach(houses)
 par(mfrow=c(2,2))
