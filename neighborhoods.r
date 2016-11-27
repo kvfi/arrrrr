@@ -1,6 +1,4 @@
 library(ggplot2)
-library(plyr)
-library(xlsx)
 
 df <- read.csv(file="data/raw/sample.csv",head=TRUE,sep=",")
 
