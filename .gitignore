@@ -27,5 +27,6 @@ vignettes/*.pdf
 *.knit.md
 /output/*
 #
-cmd.r
 packrat/lib*/
+#
+data/raw/sample.cvs
