@@ -26,6 +26,7 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 /output/*
+!.gitkeep
 #
 packrat/lib*/
 #
